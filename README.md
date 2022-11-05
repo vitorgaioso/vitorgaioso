@@ -14,9 +14,8 @@
 <br />
 
 A **UX/UI Designer** 🎨 from Brazil.
- <!-- Currently, I'm a Community Team Member 🙍🏽‍♂️ [@CallmeMehdi](https://github.com/CallmeMehdi), Kaggler 👨🏽‍💻 [@Kaggle](https://www.kaggle.com/mehdimabrouki), and an Artificial Intelligence intern 👨🏽‍💼.  -->
 
-  <img align="right" src="https://vitorgaioso.com/wp-content/uploads/2022/10/Logo-Vitorgaioso-G-scaled.jpg" width="300" height="300" />
+  <img align="right" src="https://vitorgaioso.com/wp-content/uploads/2022/10/1-vitor-q.jpg" width="300" height="300" />
 
 **About Me!**
 
