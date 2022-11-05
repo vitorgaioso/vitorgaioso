@@ -21,9 +21,10 @@ A **UX/UI Designer** 🎨 from Brazil.
 
 - 👨🏽‍💻 I’m currently working as a UX/UI Designer at <a href="https://www.dotkon.com.br/">DotKon</a>.
 - 🌱 I'm currently exploring UX and learning more about user needs. 
-- 🖼️ My portfolio website: [Vitorgaioso.com](https://vitorgaioso.com/)
 - 💼 I’m pursuing a Bachelor's degree in Architecture.
 - 💬 Ask me about anything, I love to answer!
+- 🖼️ My portfolio website: [Vitorgaioso.com](https://vitorgaioso.com/)
+- 💟 Member and UX/UI Designer of [He4rt Developers](https://github.com/he4rt)
 - 📫 Email me at [vitorgaioso@outlook.com](mailto:vitorgaioso@outlook.com).
 - 📝 See my [Curriculum Vitae](https://www.behance.net/gallery/150757855/Curriculo) to get more info.
 
